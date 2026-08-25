@@ -32,6 +32,19 @@ Testing Process
 6. Check display and basic hardware functions.
 7. Record the results and determine the condition of the computer.
 
-Screenshots
+## System Information Check
 
-Screenshots will be added showing each stage of the testing process.
+The Windows System > About page was used to verify the computer’s hardware and operating system information.
+
+The system was checked for:
+
+- Processor
+- Installed RAM
+- Graphics hardware
+- Storage capacity
+- 64-bit system architecture
+- Windows edition and version
+
+The system information displayed correctly, confirming that Windows was able to identify the computer’s main hardware components.
+
+Screenshots were added to document the system information check.
