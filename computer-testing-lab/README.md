@@ -47,4 +47,19 @@ The system was checked for:
 
 The system information displayed correctly, confirming that Windows was able to identify the computer’s main hardware components.
 
-Screenshots were added to document the system information check.
+Screenshots were added to document the system information check. 
+
+
+## Device Manager Check
+
+Device Manager was used to inspect the computer for hardware and driver issues.
+
+During the inspection, three devices appeared under Other devices with yellow warning icons. This indicated that Windows detected the hardware but did not have the correct drivers installed.
+
+One unknown device was investigated by opening:
+
+Properties → Details → Hardware Ids
+
+The hardware ID was used to help identify the device and determine that a driver issue was likely present.
+
+This demonstrates a basic desktop support troubleshooting process for identifying missing or improperly installed device drivers.
