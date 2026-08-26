@@ -62,4 +62,22 @@ Properties → Details → Hardware Ids
 
 The hardware ID was used to help identify the device and determine that a driver issue was likely present.
 
-This demonstrates a basic desktop support troubleshooting process for identifying missing or improperly installed device drivers.
+This demonstrates a basic desktop support 
+troubleshooting process for identifying missing or improperly installed device drivers.
+
+
+## Storage / Disk Management Check
+
+Disk Management was used to verify that the computer's storage drive was detected and functioning.
+
+The system showed:
+
+- One primary disk online
+- Approximately 477 GB total capacity
+- Windows installed on the C: partition
+- NTFS file system
+- Approximately 172 GB of free space
+- Recovery and EFI system partitions present
+- BitLocker encryption enabled
+
+The storage drive was detected successfully and the main Windows partition appeared healthy.
