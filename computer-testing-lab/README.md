@@ -49,7 +49,7 @@ The system information displayed correctly, confirming that Windows was able to 
 
 Screenshots were added to document the system information check. 
 
-![System Overview](01-system-overview.jpeg)
+![System Overview](01-system-overview..jpeg)
 
 ![Windows System Information](02-windows-system-info.jpeg)
 
