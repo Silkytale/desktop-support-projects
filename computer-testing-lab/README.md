@@ -88,6 +88,9 @@ The system showed:
 
 The storage drive was detected successfully and the main Windows partition appeared healthy.
 
+![Disk Management](05-disk-
+management.jpeg)
+
 ## Network Connectivity Check
 
 Command Prompt was used to verify network connectivity.
