@@ -123,6 +123,10 @@ The following checks were completed:
 
 All tested hardware functions operated normally.
 
+![Webcam Test](07-webcam-test.jpeg)
+
+![Keyboard Test](08-keyboard-test.jpeg)
+
 ## Final Test Results
 
 The computer completed the inspection with the following results:
