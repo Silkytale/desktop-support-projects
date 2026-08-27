@@ -81,3 +81,19 @@ The system showed:
 - BitLocker encryption enabled
 
 The storage drive was detected successfully and the main Windows partition appeared healthy.
+
+## Network Connectivity Check
+
+Command Prompt was used to verify network connectivity.
+
+The following checks were performed:
+
+- Confirmed the computer had an active network connection
+- Verified an IPv4 address was assigned
+- Verified a default gateway was present
+- Tested connectivity by pinging 8.8.8.8
+- Received successful replies with 0% packet loss
+
+The results showed that the computer was connected to the network and able to communicate successfully.
+
+A screenshot was added to document the network connectivity test.
