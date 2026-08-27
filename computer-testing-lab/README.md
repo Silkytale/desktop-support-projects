@@ -68,6 +68,9 @@ The hardware ID was used to help identify the device and determine that a driver
 This demonstrates a basic desktop support 
 troubleshooting process for identifying missing or improperly installed device drivers.
 
+![Device Manager Overview](03-device-manager-overview.jpeg)
+
+![Device Manager Hardware ID](04-device-manager-hardware-id.jpeg)
 
 ## Storage / Disk Management Check
 
