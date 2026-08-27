@@ -113,3 +113,28 @@ The following checks were completed:
 - USB port tested using an external mouse
 
 All tested hardware functions operated normally.
+
+## Final Test Results
+
+The computer completed the inspection with the following results:
+
+- Windows boot: PASS
+- System information check: PASS
+- Storage detection: PASS
+- Network connectivity: PASS
+- Webcam: PASS
+- Keyboard: PASS
+- Touchpad: PASS
+- Audio: PASS
+- Display: PASS
+- USB port / external mouse: PASS
+- Device Manager: ATTENTION NEEDED
+
+Device Manager showed three unknown devices with driver warnings. One device was investigated using its Hardware ID, indicating that additional driver troubleshooting may be required.
+
+Overall condition: Functional, with minor driver issues requiring further investigation.
+
+
+
+
+
