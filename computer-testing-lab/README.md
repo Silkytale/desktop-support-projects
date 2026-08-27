@@ -97,3 +97,19 @@ The following checks were performed:
 The results showed that the computer was connected to the network and able to communicate successfully.
 
 A screenshot was added to document the network connectivity test.
+
+
+## Basic Hardware Functionality Check
+
+Basic hardware functions were tested to confirm that the laptop's primary input, output, and peripheral devices were working correctly.
+
+The following checks were completed:
+
+- Webcam tested successfully
+- Keyboard tested successfully
+- Touchpad movement, clicking, and scrolling verified
+- Built-in audio tested successfully
+- Display checked for normal operation
+- USB port tested using an external mouse
+
+All tested hardware functions operated normally.
