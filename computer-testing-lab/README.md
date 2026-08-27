@@ -106,6 +106,7 @@ The results showed that the computer was connected to the network and able to co
 
 A screenshot was added to document the network connectivity test.
 
+![Network Connectivity](06-network-connectivity.jpeg)
 
 ## Basic Hardware Functionality Check
 
